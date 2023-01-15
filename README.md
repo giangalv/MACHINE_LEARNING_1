@@ -2,9 +2,15 @@
 
 # Lab 1: Naive Bayes classifier
 
-> Task 1: Data preprocessing
+> Task 1: Data preprocessing 
+
+
 > Task 2: Build a naive Bayes classifier
+
+
 > Task 3: Improve the classifier with Laplace (additive) smoothing
+
+
 > Think further
 
 ## Task 1: Data preprocessing
