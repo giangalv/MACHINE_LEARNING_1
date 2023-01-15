@@ -13,7 +13,7 @@
 
 > Think further
 
-## Task 1: Data preprocessing
+### Task 1: Data preprocessing
 
 Here you have to download data and prepare them for being used with a Matlab program.
 
